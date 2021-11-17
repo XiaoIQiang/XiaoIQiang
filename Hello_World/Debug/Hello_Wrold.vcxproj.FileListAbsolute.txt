@@ -1,0 +1,2 @@
+C:\Users\XiaoIQiang\Desktop\C++\Hello_World\Debug\Hello_World.exe
+C:\github\XiaoIQiang\Hello_World\Debug\Hello_World.exe
